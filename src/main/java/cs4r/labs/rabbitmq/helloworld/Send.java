@@ -1,4 +1,4 @@
-package cs4r.labs.rabbitmq;
+package cs4r.labs.rabbitmq.helloworld;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
